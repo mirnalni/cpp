@@ -2,5 +2,4 @@ language: cpp
 compiler: gcc
 
 script:
-- g++ hello_world.cpp -o travis_gcc_cpp98
-- ./travis_qmake_gcc_cpp98
+- ./hello_world
